@@ -1,2 +1,4 @@
 # kimu-world
-Just Newbie
+그냥 초보자
+
+learn everything
